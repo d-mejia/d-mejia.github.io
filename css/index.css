@@ -3,7 +3,6 @@ header {}
 
 a:link {
 	color: #9a8858;
-	font-weight: bold;
 	text-decoration: none;
 }
 
@@ -13,7 +12,6 @@ a:visited {
 
 a:hover {
 	color: #DBD3BF;
-	font-weight: bold;
 }
 
 a:active {
@@ -63,7 +61,7 @@ figcaption {
 figure {
 	float: right;
 	display:table;
-	margin: 0px 10px 0px 0px;
+	margin: 0px 10px 10px 0px;
 }
 
 
