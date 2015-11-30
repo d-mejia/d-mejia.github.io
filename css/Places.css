@@ -39,13 +39,13 @@ nav {
 content {
 	float: left;
         font-family: Montserrat, sans-serif;
-	width: 100%;
+	width: 70%;
 	background-color: #ffffff;
 	width: 70%;
 	margin: 10px 0px 0px 0px;
 	padding: 5px 5px 5px 5px; 
 	line-height: 20px;
-	border: 2px solid #061E43;
+	border: 2px solid #ffffff;
 	border-radius: 5px;
 
 }
