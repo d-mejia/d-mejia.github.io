@@ -56,6 +56,7 @@ figcaption {
 	color: #061E43;
 	display:table-caption;
 	caption-side:bottom;
+	width:100%;
 }
 
 figure {
