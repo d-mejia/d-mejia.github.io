@@ -51,7 +51,7 @@ content {
 }
 
 figcaption {
-	text-align: left;
+	text-align: center;
         font-family: Montserrat, sans-serif;
 	color: #061E43;
 	display:table-caption;
