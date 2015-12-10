@@ -39,7 +39,7 @@ nav {
 	float: left;
         font-family: Montserrat, sans-serif;
 	color: #061E43;
-	width: 19%;
+	width: 300px;
 	padding: 5px 5px 5px 5px;
 	min-height: 100%;
 	height: auto;
@@ -49,9 +49,8 @@ nav {
 content {
 	float: left;
         font-family: Montserrat, sans-serif;
-	width: 70%;
+	width: 50%;
 	background-color: #ffffff;
-	width: 70%;
 	margin: 10px 0px 0px 0px;
 	padding: 5px 5px 5px 5px; 
 	line-height: 20px;
