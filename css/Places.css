@@ -63,17 +63,16 @@ figure {
 	width:50%;
 	float:left;
 	margin:0px;
-	text-align:center;
 	padding:0px;
 }
 
 figcaption {
+	display:table-caption;
+	caption-side:bottom;
 	text-align: center;
         font-family: Montserrat, sans-serif;
 	color: #061E43;
-	display:table-caption;
-	caption-side:bottom;
-	width:50%;
+	width:100%;
 }
 
 ul {
