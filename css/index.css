@@ -31,6 +31,9 @@ a:active {
 /* Menu bar*/
 
 ul.link {
+    columns: 1;
+    -webkit-columns: 1;
+    -moz-columns: 1;
     list-style-type: none;
     margin: 0;
     padding: 0;
