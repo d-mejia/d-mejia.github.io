@@ -28,6 +28,35 @@ a:active {
 	color: #FFFFFF;
 }
 
+/* Menu bar*/
+
+ul.link {
+    columns: 1;
+    -webkit-columns: 1;
+    -moz-columns: 1;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 300px;
+    background-color: #f1f1f1;
+}
+
+li.link a {
+    display: block;
+    color: #9a8858;
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+li.link a:hover {
+    background-color: #555;
+    color: #DBD3BF;
+    padding: 8px 25px 8px 25px;
+}
+
+/*end menu bar*/
+
 h1 {
 	color: #061E43;
         font-family: Georgia;
