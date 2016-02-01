@@ -52,6 +52,7 @@ li.link a {
 li.link a:hover {
     background-color: #555;
     color: #DBD3BF;
+    padding:0px 0px 5px 0px;
 }
 
 /*end menu bar*/
@@ -61,7 +62,6 @@ h1 {
         font-family: Georgia;
 	padding: 0px 0px 2px 0px;
 }
-
 
 nav {
 	float: left;
@@ -120,7 +120,6 @@ ul {
 	-moz-columns: 2;
 	list-style-type: circle;
 	padding-left: 15px;
-
 }
 
 .verticalLine {
