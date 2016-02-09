@@ -2,7 +2,7 @@
 header {}
 
 #wrapper {
-	width: 80%;
+	width: 75%;
 	background-color: #FFFFFF;
 	margin-left:auto;
 	margin-right:auto;
@@ -79,7 +79,7 @@ content {
 	float: left;
         font-family: Montserrat, sans-serif;
 	background-color: #ffffff;
-	width: 70%;
+	width: 60%;
 	margin: 10px 0px 0px 0px;
 	padding: 5px 5px 5px 5px; 
 	line-height: 20px;
