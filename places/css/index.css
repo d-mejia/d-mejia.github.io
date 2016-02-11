@@ -47,6 +47,7 @@ li.link a {
     color: #9a8858;
     padding: 8px 0 8px 16px;
     text-decoration: none;
+     border-bottom: solid 1px #ffffff;
 }
 
 /* Change the link color on hover */
