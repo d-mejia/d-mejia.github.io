@@ -2,7 +2,7 @@
 header {}
 
 #wrapper {
-	width: 75%;
+	width: 80%;
 	background-color: #FFFFFF;
 	margin-left:auto;
 	margin-right:auto;
@@ -69,7 +69,7 @@ nav {
 	float: left;
         font-family: Montserrat, sans-serif;
 	color: #061E43;
-	width: 25%;
+	width: 30%;
 	padding: 5px 5px 5px 5px;
 	min-height: 100%;
 	height: auto;
