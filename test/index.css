@@ -43,7 +43,7 @@ content {
 	background-color: #ffffff;
 	width: 70%;
 	margin: 10px 0px 0px 0px;
-	padding: 5px 5px 5px 5px; 
+	padding: 5px 5px 5px 5px;
 	line-height: 20px;
 	border: 2px solid #ffffff;
 	border-radius: 5px;
@@ -59,7 +59,7 @@ figcaption {
 }
 
 figure {
-	float: right;
+	float: center;
 	display:table;
 	margin: 0px 10px 0px 0px;
 }
