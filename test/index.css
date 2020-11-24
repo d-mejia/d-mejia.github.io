@@ -27,9 +27,9 @@ h1 {
 
 nav {
 	float: left;
-        font-family: Montserrat, sans-serif;
+  font-family: Montserrat, sans-serif;
 	color: #061E43;
-	width: 19%;
+	width: 20%;
 	padding: 5px 5px 5px 5px;
 	min-height: 100%;
 	height: auto;
@@ -38,7 +38,7 @@ nav {
 
 content {
 	float: left;
-        font-family: Montserrat, sans-serif;
+  font-family: Montserrat, sans-serif;
 	width: 100%;
 	background-color: #ffffff;
 	width: 70%;
@@ -52,7 +52,7 @@ content {
 
 figcaption {
 	text-align: left;
-        font-family: Montserrat, sans-serif;
+  font-family: Montserrat, sans-serif;
 	color: #061E43;
 	display:table-caption;
 	caption-side:bottom;
@@ -63,7 +63,6 @@ figure {
 	display:table;
 	margin: 0px 10px 0px 0px;
 }
-
 
 p.cvheader {
     text-align: center;
